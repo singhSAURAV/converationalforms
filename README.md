@@ -120,4 +120,4 @@ MIT — use it, fork it, build on it.
 
 ---
 
-*Built by [Saurav]([https://github.com/](https://github.com/singhSAURAV)) · Part of an ongoing series on practical AI tooling for SMEs in SEA*
+*Built by [Saurav]([https://github.com/](https://github.com/singhSAURAV]) · Part of an ongoing series on practical AI tooling for SMEs in SEA*
